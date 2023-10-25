@@ -116,9 +116,9 @@ export default {
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "Spiral Rebels",
-        "headerSubtitle": "Insurgents",
-        "subheaderTitle": "",
-        "subheaderSubtitle": "",
+        "headerSubtitle": "",
+        "subheaderTitle": "Insurgents",
+        "subheaderSubtitle": "Ours is the drill",
       },
       "options":{
         "eventsMarkdownPerMission": true
